@@ -1,2 +1,2 @@
 markdown: kramdown
-theme: dinky
+remote_theme: cotes2020/jekyll-theme-chirpy
