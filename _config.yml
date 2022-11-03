@@ -1,4 +1,5 @@
 markdown: kramdown
 #remote_theme: cotes2020/jekyll-theme-chirpy
 #remote_theme: pages-themes/architect
-remote_theme: rundocs/jekyll-rtd-theme
+#remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: riggraz/no-style-please
